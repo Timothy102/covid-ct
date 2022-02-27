@@ -1,0 +1,11 @@
+logs/*
+*.docx
+*.pdf
+*.txt
+*.csv
+*.tsv
+*.jpg
+*.png
+*.zip
+*.pth
+
